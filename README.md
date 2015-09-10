@@ -19,3 +19,8 @@ favorites
 - espresso*
 
 ![coffee-smil](http://inumcconnect.org/wp-content/uploads/2013/03/coffee-smil.jpg)
+
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
