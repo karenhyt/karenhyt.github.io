@@ -4,5 +4,5 @@
 - favorite recipe
 - not so much favorite recipe
 
-**talic
-****
+*Italic
+*Bold
