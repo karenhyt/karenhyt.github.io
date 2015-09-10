@@ -28,3 +28,15 @@ As Kanye West said:
 ~~crossed out~~
 
 ![GitHub Logo](https://octodex.github.com/images/poptocat_v2.png)
+
+*this text will be italic*
+**this text will be bold**
+
+##new header
+
+[GitHub](http://github.com)
+
+Blue | Green
+------------ | -------------
+The sky | the grass
+the ocean | an apple
