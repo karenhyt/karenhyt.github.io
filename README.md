@@ -26,3 +26,5 @@ As Kanye West said:
 > the present is our past.
 
 ~~crossed out~~
+
+![GitHub Logo](https://octodex.github.com/images/poptocat_v2.png)
