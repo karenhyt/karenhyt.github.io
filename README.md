@@ -16,4 +16,6 @@ Craving coffee
 favorites
 - cortardo
 - americano
-- espresso
+- espresso*
+
+![coffee-smil](http://inumcconnect.org/wp-content/uploads/2013/03/coffee-smil.jpg)
