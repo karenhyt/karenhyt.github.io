@@ -12,3 +12,8 @@
 welcome to this branch
 
 Craving coffee
+
+favorites
+- cortardo
+- americano
+- espresso
