@@ -40,3 +40,5 @@ Blue | Green
 ------------ | -------------
 The sky | the grass
 the ocean | an apple
+
+Just another *comment in italic*
